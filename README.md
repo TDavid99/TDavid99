@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TDavid99
 - 👀 I’m interested in traveling around the world.
 - 🌱 I’m currently learning how to be fullstack web developer
-- 💞️ I’m looking to collaborate with company for on the job training
+- 💞️ I’m looking to collaborate with new developer around the world.
 - 📫 How to reach me davidtownsend56678@gmail.com
 <!---
 TDavid99/TDavid99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
